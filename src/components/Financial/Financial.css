@@ -1,0 +1,14 @@
+.grid-c6 .grid-item-fill {
+  width: 60%;
+  height: 10px;
+  background-color: var(--clr-pumpkin);
+  border-radius: 100vh;
+}
+.btn{
+  color: white;
+  background-color: var(--clr-pumpkin);
+  padding: 10px 14px;
+  border-radius: 10px;
+width: 100%;
+margin-top:40px;
+}
